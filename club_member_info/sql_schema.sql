@@ -23,5 +23,5 @@ COPY club_member_info (
 	full_address,
 	job_title,
 	membership_date)
-from 'C:\Users\Jaime\Desktop\git-repo\data_cleaning\club_member_info\csv\club_member_info.csv'
+from 'C:\Users\Sachin.satya\Desktop\git-repo\data_cleaning\club_member_info\csv\club_member_info.csv'
 delimiter ',' csv header;
