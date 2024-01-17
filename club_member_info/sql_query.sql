@@ -1,6 +1,6 @@
 /* 
  * Club Member Info
- * An SQL exercise for practicing data cleaning by Jaime M. Shaker jaime.m.shaker@gmail.com
+ * An SQL exercise for practicing data cleaning by Sachin MM
  *   
 
 For this project, you play a role as a Data Analyst the must clean and restructure a dirty dataset.
