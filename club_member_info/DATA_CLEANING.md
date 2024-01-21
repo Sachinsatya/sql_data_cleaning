@@ -1,6 +1,6 @@
 # Club Member Information
 ## An SQL Data Cleaning Project
-### by jaime.m.shaker@gmail.com
+### by sachinds360@gmail.com
 
 For this project, you play a role as a Data Analyst the must clean and restructure a dirty dataset.
 
